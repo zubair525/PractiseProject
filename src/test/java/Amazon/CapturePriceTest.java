@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 
 import GenericLib.BaseClass;
 
-public class CapturePrice extends BaseClass{
+public class CapturePriceTest extends BaseClass{
 	
 	
 	@Test

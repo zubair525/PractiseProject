@@ -3,17 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Amazon.CapturePrice">
+      <class name="CalenderPop.CalenderPopTest">
         <methods>
-          <include name="AM"/>
-          <include name="BM"/>
-          <include name="capturePriceOfIphone11"/>
-          <include name="AT"/>
-          <include name="AS"/>
-          <include name="BT"/>
-          <include name="BS"/>
+          <include name="calenderPop"/>
         </methods>
-      </class> <!-- Amazon.CapturePrice -->
+      </class> <!-- CalenderPop.CalenderPopTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
